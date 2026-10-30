@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://toktics.github.io/sneaky-scribble/sitemap.xml
+Sitemap: https://snappyfoxgames.co.uk/sitemap.xml
